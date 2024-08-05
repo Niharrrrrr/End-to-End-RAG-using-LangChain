@@ -4,4 +4,6 @@ langchain
 PyPDF2
 faiss-cpu
 streamlit
+langchain_google_genai
+chromadb
 -e .
