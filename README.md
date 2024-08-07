@@ -31,3 +31,18 @@ conda activate rag-env
 pip install -r requirements.txt
 ```
 
+4. Add the Google API Key.
+   
+Create a .env file and add your api key as:
+```
+GOOGLE_API_KEY-"your_key"
+```
+
+5. Run the app.
+
+```
+streamlit run app.py
+```
+
+
+   
